@@ -1,3 +1,5 @@
-theme: jekkyl-theme-tactile
+remote_theme: jekkyl-theme-tactile
 title: MyPage
 description: Welcome to my page!
+plugins:
+- jekyll-remote-theme
